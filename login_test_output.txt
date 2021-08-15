@@ -1,0 +1,12 @@
+Valid Inputs::EXPECTED RESULT: True
+True,True,True
+
+Invalid Passwords::EXPECTED RESULT: False
+False,False,False
+
+Invalid Inputs::EXPECTED RESULT: False
+False,False,False
+
+No Individual Type Selected::EXPECTED RESULT: False
+False,False,False
+
