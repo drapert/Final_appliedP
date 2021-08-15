@@ -1,0 +1,16 @@
+User enters yes
+Should return false: 
+False, False, False.
+
+User enters no
+Should return true: 
+True, True, True.
+
+User enters a number
+Should return true: 
+True, True, True.
+
+User enters nothing
+Should return true: 
+True, True, True.
+
