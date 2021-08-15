@@ -1,0 +1,26 @@
+Search a valid course
+SHOULD RETURN THE NAME OF A COURSE (EMBEDDED SENSOR NETWORKS).
+Output: Embedded Sensor Networks
+Output: Embedded Sensor Networks
+Output: Embedded Sensor Networks
+
+
+Search an invalid course ID
+SHOULD RETURN "Nothing was output."
+Output: Nothing was output.
+Output: Nothing was output.
+Output: Nothing was output.
+
+
+Search an invalid course ID (not an integer)
+SHOULD RETURN "Nothing was output."
+Output: Nothing was output.
+Output: Nothing was output.
+Output: Nothing was output.
+
+
+Search nothing
+SHOULD RETURN "Nothing was output."
+Output: Nothing was output.
+Output: Nothing was output.
+Output: Nothing was output.
