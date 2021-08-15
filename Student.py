@@ -108,7 +108,7 @@ class Student(Individual):
                             print('Conflict between ' + reg_courses[i]['title'] + ' and ' + reg_courses[j]['title'] + '. Day: ' + day)
                         elif reg_courses[j]['start_time'] >= reg_courses[i]['start_time'] and reg_courses[j]['start_time'] <= reg_courses[i]['end_time']:
                             print('Conflict between ' + reg_courses[i]['title'] + ' and ' + reg_courses[j]['title'] + '. Day: ' + day)
-            
+        print('No Conflicts!\n') 
         db.close()
 
 
